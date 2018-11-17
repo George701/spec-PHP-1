@@ -1,0 +1,13 @@
+# Settings of Apache server
+Options Indexes FollowSymLinks
+# File by default, server oriented on this file. The Main File.
+DirectoryIndex index.php
+
+# Settings PHP
+
+# Turn on short opet tag
+php_flag short_open_tag on
+
+#Permissions
+Order allow,deny
+Allow from all

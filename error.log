@@ -1,0 +1,290 @@
+[19-10-2018 16:28:05] - Ooops! There is mistake. Please contact support. :) in C:\xampp\htdocs\mysite.local\inc\menu.inc.php: 7
+[19-10-2018 16:29:10] - Undefined variable: leftMenu in C:\xampp\htdocs\mysite.local\inc\menu.inc.php: 6
+[19-10-2018 16:29:10] - Ooops! There is mistake. Please contact support. :) in C:\xampp\htdocs\mysite.local\inc\menu.inc.php: 7
+[19-10-2018 16:29:10] - Undefined variable: leftMenu in C:\xampp\htdocs\mysite.local\inc\bottom.inc.php: 4
+[22-10-2018 09:57:39] - Undefined variable: leftMenu in C:\xampp\htdocs\mysite.local\inc\menu.inc.php: 6
+[22-10-2018 09:57:39] - Ooops! There is mistake. Please contact support. :) in C:\xampp\htdocs\mysite.local\inc\menu.inc.php: 7
+[22-10-2018 09:57:39] - Undefined variable: leftMenu in C:\xampp\htdocs\mysite.local\inc\bottom.inc.php: 4
+[22-10-2018 13:38:41] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 34
+[22-10-2018 13:38:45] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 34
+[22-10-2018 13:38:54] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 34
+[22-10-2018 13:38:59] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 34
+[22-10-2018 13:48:42] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 34
+[22-10-2018 13:48:43] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 34
+[22-10-2018 13:48:44] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 34
+[22-10-2018 13:48:50] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[22-10-2018 13:48:51] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[22-10-2018 13:49:17] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[22-10-2018 13:49:17] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[22-10-2018 13:49:21] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 34
+[22-10-2018 13:50:48] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 34
+[22-10-2018 13:51:45] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 34
+[22-10-2018 13:52:13] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 34
+[22-10-2018 13:52:22] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 34
+[22-10-2018 13:52:25] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 34
+[22-10-2018 13:52:32] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[22-10-2018 13:52:32] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[22-10-2018 13:52:37] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 34
+[22-10-2018 13:53:00] - Undefined variable: id in C:\xampp\htdocs\mysite.local\index.php: 36
+[22-10-2018 13:53:00] - Undefined variable: id in C:\xampp\htdocs\mysite.local\index.php: 40
+[22-10-2018 13:53:00] - Undefined variable: id in C:\xampp\htdocs\mysite.local\index.php: 44
+[22-10-2018 13:53:00] - Undefined variable: id in C:\xampp\htdocs\mysite.local\index.php: 48
+[22-10-2018 13:53:00] - Undefined variable: id in C:\xampp\htdocs\mysite.local\index.php: 61
+[22-10-2018 13:53:00] - Undefined variable: id in C:\xampp\htdocs\mysite.local\index.php: 64
+[22-10-2018 13:53:00] - Undefined variable: id in C:\xampp\htdocs\mysite.local\index.php: 67
+[22-10-2018 13:53:00] - Undefined variable: id in C:\xampp\htdocs\mysite.local\index.php: 70
+[22-10-2018 13:53:10] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 34
+[22-10-2018 13:55:16] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 34
+[22-10-2018 13:55:17] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 34
+[22-10-2018 13:55:18] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 34
+[22-10-2018 13:55:19] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 34
+[22-10-2018 13:55:19] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 34
+[22-10-2018 13:57:02] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[22-10-2018 13:57:03] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[22-10-2018 13:57:07] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 34
+[22-10-2018 13:58:29] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 34
+[22-10-2018 13:59:14] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 35
+[22-10-2018 13:59:15] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 35
+[22-10-2018 13:59:15] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 35
+[22-10-2018 13:59:16] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 35
+[22-10-2018 13:59:16] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 35
+[22-10-2018 13:59:16] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 35
+[22-10-2018 13:59:17] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 35
+[22-10-2018 13:59:30] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 35
+[22-10-2018 14:03:16] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 35
+[22-10-2018 14:03:28] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 35
+[22-10-2018 14:03:35] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 35
+[22-10-2018 14:03:49] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 35
+[22-10-2018 14:03:53] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 35
+[22-10-2018 14:04:22] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 35
+[22-10-2018 14:06:23] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 32
+[22-10-2018 14:06:27] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 32
+[22-10-2018 14:06:32] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 32
+[22-10-2018 14:06:33] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 32
+[22-10-2018 14:08:22] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 32
+[22-10-2018 14:08:22] - Undefined variable: title in C:\xampp\htdocs\mysite.local\inc\top.inc.php: 4
+[22-10-2018 14:08:22] - Undefined variable: header in C:\xampp\htdocs\mysite.local\inc\index.inc.php: 3
+[22-10-2018 14:08:23] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 32
+[22-10-2018 14:08:23] - Undefined variable: title in C:\xampp\htdocs\mysite.local\inc\top.inc.php: 4
+[22-10-2018 14:08:23] - Undefined variable: header in C:\xampp\htdocs\mysite.local\inc\index.inc.php: 3
+[22-10-2018 14:08:24] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 32
+[22-10-2018 14:08:24] - Undefined variable: title in C:\xampp\htdocs\mysite.local\inc\top.inc.php: 4
+[22-10-2018 14:08:24] - Undefined variable: header in C:\xampp\htdocs\mysite.local\inc\index.inc.php: 3
+[22-10-2018 14:08:24] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 32
+[22-10-2018 14:08:24] - Undefined variable: title in C:\xampp\htdocs\mysite.local\inc\top.inc.php: 4
+[22-10-2018 14:08:24] - Undefined variable: header in C:\xampp\htdocs\mysite.local\inc\index.inc.php: 3
+[22-10-2018 14:08:50] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 32
+[22-10-2018 14:08:50] - Undefined variable: title in C:\xampp\htdocs\mysite.local\inc\top.inc.php: 4
+[22-10-2018 14:08:50] - Undefined variable: header in C:\xampp\htdocs\mysite.local\inc\index.inc.php: 3
+[22-10-2018 14:08:51] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 32
+[22-10-2018 14:08:51] - Undefined variable: title in C:\xampp\htdocs\mysite.local\inc\top.inc.php: 4
+[22-10-2018 14:08:51] - Undefined variable: header in C:\xampp\htdocs\mysite.local\inc\index.inc.php: 3
+[22-10-2018 14:08:51] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 32
+[22-10-2018 14:08:51] - Undefined variable: title in C:\xampp\htdocs\mysite.local\inc\top.inc.php: 4
+[22-10-2018 14:08:51] - Undefined variable: header in C:\xampp\htdocs\mysite.local\inc\index.inc.php: 3
+[22-10-2018 14:08:59] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 32
+[22-10-2018 14:08:59] - Undefined variable: title in C:\xampp\htdocs\mysite.local\inc\top.inc.php: 4
+[22-10-2018 14:08:59] - Undefined variable: header in C:\xampp\htdocs\mysite.local\inc\index.inc.php: 3
+[22-10-2018 14:09:37] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 32
+[22-10-2018 14:09:51] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 32
+[22-10-2018 14:35:51] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[22-10-2018 14:35:51] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[22-10-2018 14:35:55] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 32
+[22-10-2018 14:36:01] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 32
+[22-10-2018 14:39:47] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 32
+[22-10-2018 14:42:18] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 32
+[22-10-2018 14:42:18] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 34
+[22-10-2018 14:45:01] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 32
+[22-10-2018 14:45:20] - Undefined variable: id in C:\xampp\htdocs\mysite.local\index.php: 35
+[22-10-2018 14:45:20] - Undefined variable: id in C:\xampp\htdocs\mysite.local\index.php: 39
+[22-10-2018 14:45:20] - Undefined variable: id in C:\xampp\htdocs\mysite.local\index.php: 43
+[22-10-2018 14:45:20] - Undefined variable: id in C:\xampp\htdocs\mysite.local\index.php: 47
+[22-10-2018 14:45:20] - Undefined variable: id in C:\xampp\htdocs\mysite.local\index.php: 63
+[22-10-2018 14:45:20] - Undefined variable: id in C:\xampp\htdocs\mysite.local\index.php: 66
+[22-10-2018 14:45:20] - Undefined variable: id in C:\xampp\htdocs\mysite.local\index.php: 69
+[22-10-2018 14:45:20] - Undefined variable: id in C:\xampp\htdocs\mysite.local\index.php: 72
+[22-10-2018 14:45:26] - Undefined variable: id in C:\xampp\htdocs\mysite.local\index.php: 35
+[22-10-2018 14:45:26] - Undefined variable: id in C:\xampp\htdocs\mysite.local\index.php: 39
+[22-10-2018 14:45:26] - Undefined variable: id in C:\xampp\htdocs\mysite.local\index.php: 43
+[22-10-2018 14:45:26] - Undefined variable: id in C:\xampp\htdocs\mysite.local\index.php: 47
+[22-10-2018 14:45:26] - Undefined variable: id in C:\xampp\htdocs\mysite.local\index.php: 63
+[22-10-2018 14:45:26] - Undefined variable: id in C:\xampp\htdocs\mysite.local\index.php: 66
+[22-10-2018 14:45:26] - Undefined variable: id in C:\xampp\htdocs\mysite.local\index.php: 69
+[22-10-2018 14:45:26] - Undefined variable: id in C:\xampp\htdocs\mysite.local\index.php: 72
+[22-10-2018 14:45:32] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[22-10-2018 14:45:32] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[22-10-2018 14:45:35] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[22-10-2018 14:45:35] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[22-10-2018 14:45:38] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 32
+[22-10-2018 14:54:19] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[22-10-2018 14:54:19] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[22-10-2018 14:54:22] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[22-10-2018 14:54:22] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[22-10-2018 14:54:23] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[22-10-2018 14:54:23] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[22-10-2018 14:54:24] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[22-10-2018 14:54:24] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[22-10-2018 14:55:09] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[22-10-2018 14:55:09] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[22-10-2018 14:55:10] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[22-10-2018 14:55:10] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[22-10-2018 14:55:10] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[22-10-2018 14:55:10] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[22-10-2018 14:55:10] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[22-10-2018 14:55:10] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[22-10-2018 14:55:11] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[22-10-2018 14:55:11] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[22-10-2018 14:55:11] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[22-10-2018 14:55:11] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[22-10-2018 14:55:11] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[22-10-2018 14:55:11] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[22-10-2018 14:55:11] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[22-10-2018 14:55:11] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[22-10-2018 14:56:29] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[22-10-2018 14:56:29] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[22-10-2018 14:56:29] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[22-10-2018 14:56:29] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[22-10-2018 14:56:30] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[22-10-2018 14:56:30] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[22-10-2018 14:56:30] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[22-10-2018 14:56:30] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[22-10-2018 14:56:30] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[22-10-2018 14:56:30] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[22-10-2018 14:56:30] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[22-10-2018 14:56:30] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[22-10-2018 14:56:30] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[22-10-2018 14:56:30] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[22-10-2018 14:57:35] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 32
+[22-10-2018 15:01:26] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 32
+[22-10-2018 15:02:21] - Undefined index: REQUEST_URL in C:\xampp\htdocs\mysite.local\calc.php: 6
+[22-10-2018 16:13:37] - Undefined variable: result in C:\xampp\htdocs\mysite.local\calc.php: 58
+[22-10-2018 16:13:48] - Undefined variable: result in C:\xampp\htdocs\mysite.local\calc.php: 58
+[24-10-2018 10:05:11] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 32
+[24-10-2018 10:05:15] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[24-10-2018 10:05:15] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[24-10-2018 10:19:57] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[24-10-2018 10:19:58] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[24-10-2018 10:19:58] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[24-10-2018 10:19:58] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[24-10-2018 10:20:43] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[24-10-2018 10:20:43] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[24-10-2018 10:20:43] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[24-10-2018 10:20:43] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[24-10-2018 10:21:02] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[24-10-2018 10:21:02] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[24-10-2018 10:24:13] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[24-10-2018 10:24:13] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[24-10-2018 10:24:13] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[24-10-2018 10:24:13] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[24-10-2018 10:24:14] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[24-10-2018 10:24:14] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[24-10-2018 10:24:14] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[24-10-2018 10:24:14] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[24-10-2018 10:24:31] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[24-10-2018 10:24:31] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[24-10-2018 10:24:31] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[24-10-2018 10:24:31] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[24-10-2018 10:24:48] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[24-10-2018 10:24:48] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[24-10-2018 10:24:48] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[24-10-2018 10:24:48] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[24-10-2018 10:24:49] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[24-10-2018 10:24:49] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[24-10-2018 10:24:49] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[24-10-2018 10:24:49] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[24-10-2018 10:24:49] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[24-10-2018 10:24:49] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[24-10-2018 10:24:49] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[24-10-2018 10:24:49] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[24-10-2018 10:24:49] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[24-10-2018 10:24:49] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[24-10-2018 10:24:50] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[24-10-2018 10:24:50] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[24-10-2018 10:24:50] - Methods with the same name as their class will not be constructors in a future version of PHP; HTML_Table has a deprecated constructor in C:\xampp\php\pear\Table.php: 95
+[24-10-2018 10:24:50] - require_once(HTML/Common.php): failed to open stream: No such file or directory in C:\xampp\php\pear\Table.php: 68
+[24-10-2018 10:25:51] - Undefined variable: cols in C:\xampp\htdocs\mysite.local\table-test.php: 35
+[24-10-2018 10:25:51] - Undefined variable: rows in C:\xampp\htdocs\mysite.local\table-test.php: 35
+[24-10-2018 10:25:56] - Undefined variable: cols in C:\xampp\htdocs\mysite.local\table-test.php: 35
+[24-10-2018 10:25:56] - Undefined variable: rows in C:\xampp\htdocs\mysite.local\table-test.php: 35
+[24-10-2018 10:27:21] - Undefined index: REQUEST_URL in C:\xampp\htdocs\mysite.local\table-test.php: 16
+[24-10-2018 10:28:26] - Undefined index: REQUEST_URL in C:\xampp\htdocs\mysite.local\table-test.php: 16
+[24-10-2018 10:28:54] - Undefined index: REQUEST_URL in C:\xampp\htdocs\mysite.local\table-test.php: 16
+[24-10-2018 10:29:40] - Undefined index: REQUEST_URL in C:\xampp\htdocs\mysite.local\table-test.php: 16
+[24-10-2018 10:29:59] - Undefined index: REQUEST_URL in C:\xampp\htdocs\mysite.local\table-test.php: 16
+[24-10-2018 10:30:01] - Undefined index: REQUEST_URL in C:\xampp\htdocs\mysite.local\table-test.php: 16
+[24-10-2018 10:30:15] - Undefined index: REQUEST_URL in C:\xampp\htdocs\mysite.local\table-test.php: 16
+[24-10-2018 10:35:51] - Undefined index: REQUEST_URL in C:\xampp\htdocs\mysite.local\table-test.php: 16
+[24-10-2018 10:36:15] - Undefined index: REQUEST_URL in C:\xampp\htdocs\mysite.local\table-test.php: 16
+[24-10-2018 10:42:33] - Undefined index: REQUEST_URL in C:\xampp\htdocs\mysite.local\table-test.php: 16
+[24-10-2018 10:45:35] - Undefined index: REQUEST_URL in C:\xampp\htdocs\mysite.local\table-test.php: 16
+[24-10-2018 10:46:39] - Undefined index: REQUEST_URL in C:\xampp\htdocs\mysite.local\table-test.php: 16
+[24-10-2018 10:50:44] - Undefined index: REQUEST_URL in C:\xampp\htdocs\mysite.local\table-test.php: 16
+[24-10-2018 10:51:08] - Undefined index: REQUEST_URL in C:\xampp\htdocs\mysite.local\table-test.php: 16
+[24-10-2018 10:59:00] - Undefined index: REQUEST_URL in C:\xampp\htdocs\mysite.local\table-test.php: 16
+[24-10-2018 11:12:18] - Undefined index: REQUEST_URL in C:\xampp\htdocs\mysite.local\table-test.php: 16
+[24-10-2018 11:12:57] - Undefined index: REQUEST_URL in C:\xampp\htdocs\mysite.local\table-test.php: 16
+[24-10-2018 11:24:06] - Undefined index: REQUEST_URL in C:\xampp\htdocs\mysite.local\table-test.php: 16
+[24-10-2018 11:26:17] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 32
+[24-10-2018 11:26:19] - Undefined variable: cols in C:\xampp\htdocs\mysite.local\table-test.php: 7
+[24-10-2018 11:26:19] - Undefined variable: rows in C:\xampp\htdocs\mysite.local\table-test.php: 8
+[24-10-2018 11:26:19] - Undefined variable: color in C:\xampp\htdocs\mysite.local\table-test.php: 9
+[24-10-2018 11:26:19] - Undefined index: REQUEST_URL in C:\xampp\htdocs\mysite.local\table-test.php: 16
+[24-10-2018 12:10:23] - Undefined index: REQUEST_URL in C:\xampp\htdocs\mysite.local\table-test.php: 34
+[24-10-2018 12:29:20] - Undefined variable: cols in C:\xampp\htdocs\mysite.local\table-test.php: 7
+[24-10-2018 12:29:20] - Undefined variable: rows in C:\xampp\htdocs\mysite.local\table-test.php: 8
+[24-10-2018 12:29:20] - Undefined variable: color in C:\xampp\htdocs\mysite.local\table-test.php: 9
+[24-10-2018 12:29:40] - Undefined variable: cols in C:\xampp\htdocs\mysite.local\table-test.php: 7
+[24-10-2018 12:29:40] - Undefined variable: rows in C:\xampp\htdocs\mysite.local\table-test.php: 8
+[24-10-2018 12:29:40] - Undefined variable: color in C:\xampp\htdocs\mysite.local\table-test.php: 9
+[24-10-2018 12:33:53] - Undefined variable: cols in C:\xampp\htdocs\mysite.local\table-test.php: 7
+[24-10-2018 12:33:53] - Undefined variable: rows in C:\xampp\htdocs\mysite.local\table-test.php: 8
+[24-10-2018 12:33:53] - Undefined variable: color in C:\xampp\htdocs\mysite.local\table-test.php: 9
+[24-10-2018 12:33:55] - Undefined variable: cols in C:\xampp\htdocs\mysite.local\table-test.php: 7
+[24-10-2018 12:33:55] - Undefined variable: rows in C:\xampp\htdocs\mysite.local\table-test.php: 8
+[24-10-2018 12:33:55] - Undefined variable: color in C:\xampp\htdocs\mysite.local\table-test.php: 9
+[24-10-2018 12:34:28] - Undefined variable: cols in C:\xampp\htdocs\mysite.local\table-test.php: 7
+[24-10-2018 12:34:29] - Undefined variable: rows in C:\xampp\htdocs\mysite.local\table-test.php: 8
+[24-10-2018 12:34:29] - Undefined variable: color in C:\xampp\htdocs\mysite.local\table-test.php: 9
+[24-10-2018 12:34:30] - Undefined variable: cols in C:\xampp\htdocs\mysite.local\table-test.php: 7
+[24-10-2018 12:34:30] - Undefined variable: rows in C:\xampp\htdocs\mysite.local\table-test.php: 8
+[24-10-2018 12:34:30] - Undefined variable: color in C:\xampp\htdocs\mysite.local\table-test.php: 9
+[24-10-2018 12:34:35] - Undefined variable: cols in C:\xampp\htdocs\mysite.local\table-test.php: 7
+[24-10-2018 12:34:35] - Undefined variable: rows in C:\xampp\htdocs\mysite.local\table-test.php: 8
+[24-10-2018 12:34:35] - Undefined variable: color in C:\xampp\htdocs\mysite.local\table-test.php: 9
+[24-10-2018 12:34:49] - Undefined variable: cols in C:\xampp\htdocs\mysite.local\table-test.php: 7
+[24-10-2018 12:34:49] - Undefined variable: rows in C:\xampp\htdocs\mysite.local\table-test.php: 8
+[24-10-2018 12:34:49] - Undefined variable: color in C:\xampp\htdocs\mysite.local\table-test.php: 9
+[24-10-2018 12:35:00] - Undefined variable: cols in C:\xampp\htdocs\mysite.local\table-test.php: 7
+[24-10-2018 12:35:00] - Undefined variable: rows in C:\xampp\htdocs\mysite.local\table-test.php: 8
+[24-10-2018 12:35:00] - Undefined variable: color in C:\xampp\htdocs\mysite.local\table-test.php: 9
+[24-10-2018 12:35:01] - Undefined variable: cols in C:\xampp\htdocs\mysite.local\table-test.php: 7
+[24-10-2018 12:35:01] - Undefined variable: rows in C:\xampp\htdocs\mysite.local\table-test.php: 8
+[24-10-2018 12:35:01] - Undefined variable: color in C:\xampp\htdocs\mysite.local\table-test.php: 9
+[24-10-2018 12:35:10] - Undefined variable: cols in C:\xampp\htdocs\mysite.local\table-test.php: 7
+[24-10-2018 12:35:10] - Undefined variable: rows in C:\xampp\htdocs\mysite.local\table-test.php: 8
+[24-10-2018 12:35:10] - Undefined variable: color in C:\xampp\htdocs\mysite.local\table-test.php: 9
+[24-10-2018 12:35:10] - Use of undefined constant red - assumed 'red' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\mysite.local\inc\lib.inc.php: 17
+[24-10-2018 12:35:40] - Undefined variable: cols in C:\xampp\htdocs\mysite.local\table-test.php: 7
+[24-10-2018 12:35:40] - Undefined variable: rows in C:\xampp\htdocs\mysite.local\table-test.php: 8
+[24-10-2018 12:35:40] - Undefined variable: color in C:\xampp\htdocs\mysite.local\table-test.php: 9
+[24-10-2018 12:36:49] - Undefined variable: cols in C:\xampp\htdocs\mysite.local\table-test.php: 7
+[24-10-2018 12:36:49] - Undefined variable: rows in C:\xampp\htdocs\mysite.local\table-test.php: 8
+[24-10-2018 12:36:49] - Undefined variable: color in C:\xampp\htdocs\mysite.local\table-test.php: 9
+[24-10-2018 12:37:37] - Undefined variable: cols in C:\xampp\htdocs\mysite.local\table-test.php: 7
+[24-10-2018 12:37:37] - Undefined variable: rows in C:\xampp\htdocs\mysite.local\table-test.php: 8
+[24-10-2018 12:37:37] - Undefined variable: color in C:\xampp\htdocs\mysite.local\table-test.php: 9
+[24-10-2018 12:37:38] - Undefined variable: cols in C:\xampp\htdocs\mysite.local\table-test.php: 7
+[24-10-2018 12:37:38] - Undefined variable: rows in C:\xampp\htdocs\mysite.local\table-test.php: 8
+[24-10-2018 12:37:38] - Undefined variable: color in C:\xampp\htdocs\mysite.local\table-test.php: 9
+[24-10-2018 12:38:48] - Undefined variable: cols in C:\xampp\htdocs\mysite.local\table-test.php: 7
+[24-10-2018 12:38:48] - Undefined variable: rows in C:\xampp\htdocs\mysite.local\table-test.php: 8
+[24-10-2018 12:38:48] - Undefined variable: color in C:\xampp\htdocs\mysite.local\table-test.php: 9
+[24-10-2018 12:40:13] - Undefined variable: cols in C:\xampp\htdocs\mysite.local\table-test.php: 7
+[24-10-2018 12:40:13] - Undefined variable: rows in C:\xampp\htdocs\mysite.local\table-test.php: 8
+[24-10-2018 12:40:13] - Undefined variable: color in C:\xampp\htdocs\mysite.local\table-test.php: 9
+[24-10-2018 12:40:15] - Undefined variable: cols in C:\xampp\htdocs\mysite.local\table-test.php: 7
+[24-10-2018 12:40:15] - Undefined variable: rows in C:\xampp\htdocs\mysite.local\table-test.php: 8
+[24-10-2018 12:40:15] - Undefined variable: color in C:\xampp\htdocs\mysite.local\table-test.php: 9
+[24-10-2018 12:47:34] - Undefined variable: result in C:\xampp\htdocs\mysite.local\calc.php: 58
+[24-10-2018 12:47:38] - Undefined variable: result in C:\xampp\htdocs\mysite.local\calc.php: 58
+[05-11-2018 11:21:05] - Undefined index: id in C:\xampp\htdocs\mysite.local\index.php: 32
